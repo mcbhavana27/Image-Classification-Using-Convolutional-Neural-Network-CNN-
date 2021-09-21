@@ -20,7 +20,7 @@ The dataset is comprised of 60,000 32×32 pixel color photographs of objects fro
 
 These are very small images, much smaller than a typical photograph, and the dataset was intended for computer vision research.
 
-https://machinelearningmastery.com/wp-content/uploads/2019/01/Plot-of-a-Subset-of-Images-from-the-CIFAR-10-Dataset.png
+![image](https://user-images.githubusercontent.com/58338319/134147237-ef794ab2-d451-4b7d-adec-7920e2314172.png)
 
 ## Define Model
 
